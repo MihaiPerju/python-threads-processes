@@ -1,0 +1,3 @@
+FROM python:3.8.18-alpine
+
+WORKDIR /opt/bin
